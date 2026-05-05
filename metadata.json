@@ -1,0 +1,6 @@
+{
+  "name": "1092 AI Helpline Assistant",
+  "description": "Multilingual AI helpline assistant for Karnataka's 1092 service, featuring dialect-aware interpretation, sentiment analysis, and a verification loop to ensure citizen issues are understood before action.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Multilingual Support", "Sentiment Analysis", "Voice-to-Voice Interface"]
+}
